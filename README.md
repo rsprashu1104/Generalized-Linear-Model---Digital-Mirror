@@ -15,8 +15,7 @@ The project investigates how social media usage correlates with self-esteem, usi
 **Does social media negatively affect self-esteem?**
 
 - **Dependent Variable (D1)**: Self-reported impact on self-esteem (Yes/No)
-- **Independent Variables**: Age, frequency of FOMO, comparison with others, platform usage, satisfaction.
-
+- **Independent Variables**:Age, social media engagement patterns, platform usage, perceived mental health impact, satisfaction, FOMO, comparison behaviors, and conformity pressure.
 ---
 
 ## 👤 My Contributions
