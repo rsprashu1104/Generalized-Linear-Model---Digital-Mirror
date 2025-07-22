@@ -59,5 +59,3 @@ The project investigates how social media usage correlates with self-esteem, usi
 ---
 
 
-## 📂 Repository Structure
-
